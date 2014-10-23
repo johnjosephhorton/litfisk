@@ -1,4 +1,4 @@
-# Notes on: 
+# Notes on: "The Online Laboratory" by Horton, Zeckhauser and Rand
 ### Page 1
 ![](./images/file_1_cropped.png)
 
