@@ -2,16 +2,19 @@
 
 ## What is this thing? 
 
-It's a very hacky python script that creates a plain text document
-(specifically, markdown) where it is easy to take plain text notes interwoven
-with the text. Most importantly, those notes can version-controlled
-and easily shared. The second thing it does is create a folder with
-all the plaintext snippets from the passed pdf (if they can be
-extracted). If each PDF is your pdf library gets this treatment, it
-would easy to grep over the plain text of the doc and extract what you
-need.  
+It's a very hacky python script that takes a PDF (usually an academic article) and 
+creates a plain text document (specifically, markdown) with sections for each page of the PDF. 
+Each section has a hi-res image of that page, the extracted text from that page (to facilitate searching) 
+and space for entering notes about that page. 
+The idea is to make it easy to take in-site plain text notes interwoven
+with the content of an article. This makes it easy to share notes with co-authors and keep everything version-controlled. 
 
-[Example out here](litfisk.md) 
+The script also creates a folder with all the plaintext snippets from the passed pdf (if they can be
+extracted). If each PDF is your pdf library gets this treatment, it
+would easy to grep over the plain text of the doc and extract what you need.  
+And because each text file is named after the page it came from, finding the exact location in the text is straightforward. 
+
+[Example here](litfisk.md) 
 
 ## Why do you make this? 
 
