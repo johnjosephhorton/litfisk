@@ -6,7 +6,7 @@ It's a very hacky python script that takes a PDF (usually an academic article) a
 creates a plain text document (specifically, markdown) with sections for each page of the PDF. 
 Each section has a hi-res image of that page, the extracted text from that page (to facilitate searching) 
 and space for entering notes about that page. 
-The idea is to make it easy to take in-site plain text notes interwoven
+The idea is to make it easy to take "in-situ" plain text notes interwoven
 with the content of an article. This makes it easy to share notes with co-authors and keep everything version-controlled. 
 
 The script also creates a folder with all the plaintext snippets from the passed pdf (if they can be
