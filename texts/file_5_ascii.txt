@@ -1,0 +1,42 @@
+The online laboratory: conducting experiments in a real labor market
+
+task or game using an economic frame of mind. Even in non-economic scenarios,
+lack of subject awareness is useful, as their uninformed state rules out experimenter
+effects and John Henry effects.3
+When subjects are aware they are in an experiment, they might try to learn about
+the conditions of experimental groups. Subjects in a less desirable treatment might
+be upset by their bad luck, which might affect their behaviors. Cook and Campbell
+(1979) call this demoralization. Furthermore, even if subjects remain unaware of
+an experiment and of the nature of the treatment, agents of the experimenter might
+affect outcomes through their own initiative, such as by compensatory equalization
+(i.e., intervening to make the outcomes of the different groups more similar and hence
+fairer). In online experiments in which subjects have no knowledge of the treatments received by others, the threat of demoralization is minimal, and since carrying
+out online experiments generally requires no human agent, unauthorized interventions like compensatory equalization are unlikely.
+2.2 Obtaining control and promoting trust
+Even though online labor markets provide a pool of would-be subjects with some
+desirable characteristics, having subjects alone is not sufficient for the conduct of an
+experiment. Experimenters need to be able to uniquely identify these subjects, convey
+instructions, collect responses and make payments, while being confident that their
+intended actions are actually being implemented properly. Fortunately, many of the
+primary concerns of would-be experimenters mirror the concerns of the creators and
+customers of online labor markets. Employers worry that workers with multiple accounts might place phony bids or manipulate the reputation system by leaving phony
+feedback. Similarly, experimenters worry that a subject with multiple accounts might
+participate in an experiment multiple times. The creators of online labor markets do
+not want workers to communicate with each other, as that could lead to collusion.
+Experimenters also worry about workers discussing the details of experiments with
+each other and possibly colluding. Finally, both employers and experimenters need
+ways to pay individuals precise amounts of money as rewards for their actions and
+decisions.
+It is now easy to hire and pay workers within the context of online labor markets, yet still quite difficult to do the same online, but outside of these markets. The
+problem is not technological. The type and quality of communicationemail, instant messenger services, voice-over-IPdo not depend on whether the buyer and
+seller are working inside or outside the online market, and banks have been transferring funds electronically for decades. The problem is that it is difficult to create trust
+among strangers. Trust is an issue not only for would-be trading partners, but also for
+would-be experimenters.
+The validity of economics experiments depends heavily upon trust, particularly
+subjects trust that the promulgated rules will be followed and that all stated facts
+3 Experimenter effects are created when subjects try to produce the effect they believe the experimenters
+
+expect; John Henry effects are created when subjects exert great effort because they treat the experiment
+like a competitive contest.
+
+

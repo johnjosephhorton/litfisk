@@ -1,0 +1,37 @@
+J.J. Horton et al.
+
+Guru and Amazons Mechanical Turk (MTurk).2 Each of these sites is potentially
+amenable to experimentation, but MTurk currently offers the best venue due to its
+robust application programming interface (API) and its simple yet flexible pricing
+structure.
+Online experiments are quite easy to run: an advertisement is placed for the experiment via the same framework used to advertise real jobs on the market. This
+advertisement offers a general description of the experiment that truthfully encompasses all the experimental groups. As subjects accept this job, they are assigned
+by the experimenter (usually with the aid of a random number generator) to an experimental group. Each group encounters a different interface according to their group
+assignment. For example, interfaces might differ on instructions, payment schedules
+or visual stimuli. The interface is usually a stand-alone website that gives the subjects instructions, records their choices, provides them with information as the game
+progresses and determines their payoffs. After subjects complete whatever task is
+asked of them (e.g., perform work or make choices), they submit the task and
+are eventually paid, just like they would for any other work performed in the market.
+There are now several papers that serve as how to guides for running behavioral experiments specifically on Mechanical Turk. Paolacci et al. (2010) and Mason
+and Watts (2010) both focus on the practical challenges of running experiments on
+MTurk, and serve as excellent resources for getting started. One practical advantage
+of MTurk is that it supports experiments that range from simple surveys made with
+off-the-shelf or web-based software to custom-built, elaborate interfaces with designs
+limited only by time and resources.
+2.1 The advantages of recruiting from labor markets
+Subjects recruited from MTurk, or from any online labor market, potentially provide diverse samples of both high- and low-skilled individuals from a wide range of
+countries. One potentially useful dimension of subject diversity is inexperience with
+economic games, though the magnitude of this advantage is likely to depend on the
+research question. Further, by using subjects from less-developed countries, experimenters can create relatively high-stakes games for far less money than would be
+needed if using subjects from developed countries.
+Depending on a researchers institution and research question, experimenters
+might not be required to tell subjects hired from online labor markets that they are
+participating in an experiment. For experiments that use classic economic games,
+subjects might guess they are in a study of some kind; but for real-effort, marketappropriate tasks, workers are unlikely to suspect that their employer is a researcher. This advantage partially answers one of the sharpest critiques of the experimental method in economics, namely the inherent artificiality created by subjects
+knowing they are in an experiment. Subjects recruited from online labor markets are
+already making consequential economic decisions and they are likely to view any
+2 There are other online labor markets, structured more like tournaments or prize-based contests, that are
+
+less relevant for experimental purposes.
+
+

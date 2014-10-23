@@ -1,0 +1,44 @@
+The online laboratory: conducting experiments in a real labor market
+
+that unexplained wage cuts decrease output, but that when the cuts were justified
+to workers, the former levels of output were maintained.4 In a separate paper using
+MTurk, Horton and Chilton (2010) explored whether a simple rational model can
+explain worker output. While they found strong evidence that at least some workers
+are price-sensitive, they also found that a non-trivial fraction are target earners, that
+is, people who work to achieve certain income targets rather than responding solely to
+the offered wage. In a third study, Suri and Watts (2011) had MTurk subjects play the
+same repeated public goods game run in the physical laboratory by Fehr et al. (2000).
+Their MTurk subjects quantitatively replicated the experimental findings from the
+physical lab, using an order of magnitude lower payoffs. In a natural field experiment
+conducted on MTurk, Chandler and Kapelner (2010) subtly manipulated the meaning
+of the task and measured whether that change affected uptake and work quality, both
+overall and conditional upon a workers home country. Their work illustrates the
+kinds of experiments that would be very difficult and costly to conduct in offline
+settings.
+In addition to conventional academic papers, a number of researchers are conducting experiments on MTurk and posting results on their blogs. Gabriele Paolacci
+at the University of Venice writes a blog called Experimental Turk which focuses
+on reproducing results from experimental psychology.5
+While MTurk is to date the mostly commonly used online labor market, others
+are emerging. For example, Pallais (2010) conducted a field experiment on the online
+labor market oDesk, in which she invited a large number of workers to complete a
+data-entry task. She found that obtaining a first job and receiving a feedback score
+helped them obtain future work in the market.
+3.2 Quantitative replication: social preferences
+A central theme in experimental economics is the existence of social (or otherregarding) preferences (Andreoni 1990; Fehr and Schmidt 1999). Countless laboratory experiments have demonstrated that many peoples behaviors are inconsistent
+with caring only about their own monetary payoffs. (For a review, see Camerer 2003.)
+Here we quantitatively replicated the existence and extent of other-regarding preferences in the online laboratory using MTurk.
+To compare pro-social behavior on MTurk to that which is observed in the physical
+laboratory (hereafter often referred to as offline), we used the prisoners dilemma
+(PD), the canonical game for studying altruistic cooperation (Axelrod and Hamilton 1981). We recruited 155 subjects on MTurk and 30 subjects at Harvard University, using the same neutrally-framed instructions, incentive-compatible design and
+ex-post matching procedure. To be commensurate with standard wages on MTurk,
+4 There are a number of papers that have used the Internet as a test bed for field experimentation, primarily
+
+as a way to study auctions (Resnick et al. 2006; Lucking-Reiley 2000).
+5 Although blogs are certainly not equivalent to peer-reviewed journals, they do allow academics to quickly
+
+communicate results and receive feedback. For example, Rob Miller and Greg Little at the MIT Computer
+Science and Artificial Intelligence Laboratory (CSAIL) host a blog called Deneme that reports the results
+of experiments using TurKita Java library developed by Little and others to perform iterative, complex
+tasks on MTurk (Little et al. 2009).
+
+

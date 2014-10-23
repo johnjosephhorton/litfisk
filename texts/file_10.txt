@@ -1,0 +1,57 @@
+J.J. Horton et al.
+
+payoffs were an order of magnitude smaller on MTurk compared to the offline lab.
+MTurk participants received a $0.50 “show-up fee,” while offline subjects received
+a $5 show-up fee. Each subject was informed that he or she had been randomly assigned to interact with another participant.6 They were further informed that both
+players would have a choice between two options, A or B, (where A represents cooperation and B represents defection) with the following payoff structure:
+
+MTurk:
+
+A
+B
+
+A
+B
+$0.70, $0.70
+$0, $1.00
+$1.00, $0
+$0.30, $0.30
+
+Physical lab:
+
+A
+B
+
+A
+B
+$7, $7 $0, $10
+$10, $0 $3, $3
+(1)
+
+Note that, regardless of the action of one’s partner, choosing B maximizes one’s
+payoff. MTurk workers were additionally given five comprehension questions regarding the payoff structure, allowing us to compare subjects who were paying close attention with those who were not.7
+In a one-shot PD, rational self-interested players should always select B. Consistent with a wealth of previous laboratory studies (Camerer 2003), however, a substantial fraction of our subjects chose A, both offline (37%) and on MTurk (47%). The
+difference between offline and online cooperation was not statistically significant (χ 2
+test, p = 0.294), although this may have been in part due to the relatively small offline sample size (N = 30). However, if we restrict our attention to the N = 74 MTurk
+subjects who correctly answered all five comprehension questions, we find that 39%
+chose A, giving close quantitative agreement with the 37% of cooperating physical
+laboratory subjects (χ 2 test, p = 0.811). See Fig. 1. These results demonstrate the
+ability of MTurk to quantitatively reproduce behavior from the physical laboratory,
+and also emphasize the importance of using payoff comprehension questions in the
+context of MTurk.
+3.3 Qualitative replication: priming
+Priming is a common tool in the behavioral sciences. In priming studies, stimuli unrelated to the decision task (and which do not affect the monetary outcomes) can
+nonetheless significantly alter subjects’ behaviors. Priming has attracted a great deal
+of attention in psychology, and, more recently, in experimental economics (Benjamin
+et al. 2010a). In our second experiment, we demonstrated the power of priming effects on MTurk.
+6 MTurk subjects were matched exclusively with MTurk subjects, and offline subjects matched exclusively
+
+with offline subjects.
+7 The comprehension questions were: (1) Which earns you more money: [You pick A, You pick B].
+
+(2) Which earns the other person more money: [You pick A, You pick B]. (3) Which earns you more
+money: [Other person picks A, Other person picks B]. (4) Which earns the other person more money:
+[Other person picks A, Other person pick B]. (5) If you pick B and the other picks A, what bonus will you
+receive?
+
+

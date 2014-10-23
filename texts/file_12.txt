@@ -1,0 +1,49 @@
+J.J. Horton et al.
+Fig. 2 Reading a religious
+passage significantly increases
+prisoner’s dilemma cooperation
+among those who have had an
+experience that convinced them
+of the existence of God, but not
+among those who have not had
+such an experience. Error bars
+indicate standard error of the
+mean
+
+of previous studies regarding the effectiveness of implicit religious primes for promoting cooperation (Benjamin et al. 2010b).8 We demonstrate that the principle of
+priming can be observed with MTurk and that the effectiveness of the prime can vary
+systematically, depending on the characteristics of the reader.
+3.4 Qualitative replication: framing
+Traditional economic models assume that individuals are fully rational in making
+decisions—that people will always choose the option that maximizes their utility,
+which is wholly-defined in terms of outcomes. Therefore, decision-making should be
+consistent, and an individual should make the same choice when faced with equivalent decision problems. However, as the watershed experiment of Tversky and Kahneman (1981) (hereafter “TK”) demonstrated, this is not the case. TK introduced the
+concept of “framing”: that presenting two numerically equivalent situations with different language can lead to dramatic differences in stated preferences. In our current
+experiment, we replicated the framing effect demonstrated by TK on MTurk.9
+In TK’s canonical example, subjects read one of two hypothetical scenarios. Half
+of the subjects were given the following Problem 1:
+Imagine that the United States is preparing for the outbreak of an unusual Asian
+disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates
+of the consequences of the programs are as follows: If Program A is adopted,
+200 people will be saved. If Program B is adopted, there is 1
+3 probability that
+probability
+that
+no
+people
+will
+be saved.
+600 people will be saved and 2
+3
+8 Note that the prime had a marginally significant negative effect on subjects who had not had an experience
+
+which convinced them of the existence of God (χ 2 test, p = 0.080). It is conceivable that some of these
+subjects were antagonized by a message wrapped in religious language. The difference between the effect
+on believers and nonbelievers is highly significant, as indicated by the interaction term in the regression
+above (p = 0.008). The possible ‘counterproductive’ effect on nonbelievers may help explain the mixed
+results of previous studies.
+9 This is the second replication of this result on MTurk. Gabriele Paolacci also performed this experiment
+
+and reported the results on his blog, http://experimentalturk.wordpress.com/2009/11/06/asian-disease.
+
+

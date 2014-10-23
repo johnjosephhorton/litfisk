@@ -1,0 +1,38 @@
+The online laboratory: conducting experiments in a real labor market
+
+We have been running experiments for well over a year, and occasionally search
+the chat rooms for mention of our user name. On one occasion, subjects did discuss
+our task, but a quick email from us to the original poster led to the mention being
+taken down. As a practical matter, we advise running experiments quickly, keeping
+them unremarkable and periodically checking any associated message boards for discussions of any experimental particulars.14 Warning or threatening subjects is not recommended, as this would probably do little to deter collusion; while possibly piquing
+curiosity and prompting discussion.
+
+5 External validity
+As with all of experimental social science, the external validity of results is of central
+importance in evaluating online experiments. In this section, we discuss different aspects of external validity, including subject representativeness and quantitative versus
+qualitative generalizability. We also discuss the interpretation of differences between
+online and offline results, and present survey results comparing online and offline
+subjects’ trust that they will be paid as described in the experimental instructions.
+5.1 Representativeness
+People who choose to participate in social science experiments represent a small
+segment of the population. The same is true of people who work online. Just as the
+university students who make up the subjects in most physical laboratory experiments
+are highly selected compared to the U.S. population, so too are subjects in online
+experiments, although along different demographic dimensions.
+The demographics of MTurk are in flux, but surveys have found that U.S.-based
+workers are more likely to be younger and female, while non-U.S. workers are overwhelmingly from India and are more likely to be male (Ipeirotis 2010). However,
+even if subjects “look like” some population of interest in terms of observable characteristics, some degree of self-selection of participation is unavoidable. As in the
+physical laboratory, and in almost all empirical social science, issues related to selection and “realism” exist online, but these issues do not undermine the usefulness of
+such research (Falk and Heckman 2009).
+5.2 Estimates of changes versus estimates of levels
+Quantitative research in the social sciences generally takes one of two forms: it is
+either trying to estimate a level or a change. For “levels” research (for example, what
+is the infant mortality in the United States? Did the economy expand last quarter?
+How many people support candidate X?), only a representative sample can guarantee
+a credible answer. For example, if we disproportionately surveyed young people, we
+could not assess X’s overall popularity.
+14 It might also be possible to “piggy-back” experiments by working with existing market participants with
+
+established, commercial reputations—an attractive option suggested to us by Dana Chandler.
+
+

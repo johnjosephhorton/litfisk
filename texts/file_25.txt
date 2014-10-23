@@ -1,0 +1,35 @@
+The online laboratory: conducting experiments in a real labor market
+
+fraud. The arguments for maintaining this “no-deception” policy in online experiments are even stronger.
+Workers in online labor markets represent a common resource shared by researchers around the globe. Once experiments reach a significant scale, practicing
+deception in these markets could pollute this shared resource by creating distrust. In
+the online world, reputations will be hard to build and maintain, since the experimenter’s user name will usually be the only thing the subject knows about the experimenter. Of course, economists will share the experimental space with psychologists,
+sociologists and other social scientists who may not share the “no deception” norm.
+Probably little can be done to police other disciplines, but economists can take steps
+to highlight to their subjects that they adhere to the no-deception rule and to present
+arguments to others that deception is a threat to the usefulness of these markets. If
+online experiments become truly widespread, we would expect some sites to prohibit
+deception, in part because their non-experimenting employers would also be hurt by
+distrust. Additional forms of certification or enforcement processes are also likely to
+arise.
+7.3 Software development
+The most helpful development in the short term would be better (and betterdocumented) tools. There are a number of software tools under active development
+that should make online experimentation far easier. The first goal should probably be
+to port some variant of zTree to run on the Internet. The MIT initiative “Seaweed” is
+a nascent attempt at this goal, but it needs much more development.
+Obviously some tools, such as those for complex games, will have to be custombuilt for individual experiments. Advances in software are required for games calling for simultaneous participation by two or more subjects. Such software is already
+under development in multiple locales. However, the research community should,
+as much as possible, leverage existing open-source tools. For example, many experiments simply require some kind of survey tool. The previously mentioned opensource project, “Limesurvey,” already offers an excellent interface, sophisticated tools
+and, perhaps most importantly, a team of experienced and dedicated developers as
+well as a large, non-academic user base.
+
+8 Conclusion
+We argue in this paper that experiments conducted in online labor markets can be just
+as valid as other kinds of experiments, while greatly reducing cost, time and inconvenience. Our replications of well-known experiments relied on MTurk, as MTurk
+is currently the most appropriate online labor market for experimentation. However,
+as other online labor markets mature and add their own application programming interfaces, it should be easier to conduct experiments in additional domains. It might
+even be possible to recruit a panel of subjects to participate in a series of experiments.
+While MTurk workers remain anonymous, many other markets have the advantage
+of making it easier to learn about subjects/workers.
+
+

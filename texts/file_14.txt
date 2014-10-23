@@ -1,0 +1,28 @@
+J.J. Horton et al.
+
+Fig. 3 Self-reported motivation for working on Amazon Mechanical Turk (row) cross-tabulated with
+self-reported country (column) for 302 workers/subjects
+
+in order to prevent subjects from simply copying and pasting the text into the text
+box. The advantages of a text transcription task are that it (a) is tedious, (b) requires
+effort and attention and (c) has a clearly defined quality measure—namely, the number of errors made by subjects (if the true text is known). We have found it useful
+to machine-translate the text into some language that is unlikely to be familiar, yet
+has no characters unavailable on the standard keyboards. Translating increases the
+error rate by ruling out the use of automated spell-checking, and it prevents subjects
+from finding the true text somewhere on the web. For this experiment, our text passages were paragraph-sized chunks from Adam Smith’s Theory of Moral Sentiments,
+machine-translated into Tagalog, a language of the Philippines.
+In our experiment, after completing the survey and the first task, subjects were
+randomly assigned to one of four treatment groups and offered the chance to perform
+another transcription for p cents, where p was equal to 1, 5, 15 or 25.
+As expected, workers receiving higher offers were more likely to accept. Table 1
+shows that as the offered price increased, the fraction of subjects accepting the offer
+rose. The regression results are
+¯i = 0.0164 · pi + 0.6051
+Y
+0.0024
+
+0.0418
+
+(3)
+
+

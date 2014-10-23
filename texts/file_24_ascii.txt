@@ -1,0 +1,43 @@
+J.J. Horton et al.
+
+the results of an experiment. Conducting multiple experiments per week for relatively
+small amounts of money is now feasible. While this is an exciting and welcome development, in such an environment, a researcher could turn out a stream of spuriously
+significant results by burying all that are negative. Even honest researchers can convince themselves of the flaws in their pilots and of the legitimacy of the subsequent
+experiments that happened to yield good results.19
+A significant advantage of online experiments is that they can be run with little assistance from others. This creates the offsetting disadvantage of reducing critiques by
+others of procedures and results. Since there are no lab technicians, no subjects who
+can be contacted and no logs on university-run servers, the temptation to cheat may
+be high. While few researchers would knowingly falsify results, certain professional
+norms could raise the cost of bad behavior, with the effect of both fostering honesty
+and dampening skepticism.
+The first norm should be to require machine-readable sharing of experimental materials, as well as of detailed instructions on set-up and process. Perhaps some institution, such as a professional organization or the National Science Foundation,
+could set up a library or clearinghouse for such materials. While most results would
+probably not be checked by new experiments, requiring all experimenters to make
+replication very easy would make all results contestable. This should help make
+cheating an unprofitable and unpopular strategy. Another advantage of such a norm
+is that it would reduce costly duplication of programming effort and design. As a
+current example, the open-source survey software Limesurvey allows researchers to
+export their survey designs as stand-alone files. Researchers can simply download
+other peoples experimental materials and then deploy their own working versions of
+surveys/experiments.
+Within economics, a consensus is developing to make all data and code publicly
+available. To adhere to and support this norm is easy in online contexts, but online
+experimenters should go a step further. Datasets should be publicly available in the
+rawest form possible (that is, in the format in which the experimental software collected the data), as should the associated code that turned the raw data into the data
+set.20 The Internet makes such sharing a low-cost chore, since the data are invariably
+generated in machine-readable form.
+7.2 Deception
+Experimental economics has a well-established ethic against deceiving subjects, an
+ethic that provides significant positive externalities. Many experiments rely critically
+on subjects accepting instructions from experimenters at face value. Moreover, deception in money-staked economics experiments could approach and even constitute
+19 It is thus important that any final paper describe the alternative formulations that were tried. Statistical
+
+tests should take alternatives tried into account when computing significance.
+20 Often it is necessary to clean this data in different ways, such as by dropping bad inputs, or adjusting
+
+them to reflect the subjects obvious intent (e.g., if a subject is asked to report in cents and reports .50,
+it might reasonable to infer they meant 50 cents, not a half-cent). By making all trimming, dropping,
+reshaping, etc., programmatic, it is easier for other researchers to identify why a replication failed, or what
+seemingly innocuous steps taken by the original researcher drove the results.
+
+

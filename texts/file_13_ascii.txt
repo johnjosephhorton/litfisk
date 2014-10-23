@@ -1,0 +1,41 @@
+The online laboratory: conducting experiments in a real labor market
+
+Which of the two programs would you favor?
+The other half were given Problem 2 in which the setup (the first three sentences)
+was identical but the programs were framed differently:
+If Program A is adopted, 400 people will die. If Program B is adopted, there is
+1
+2
+3 probability that nobody will die, and 3 probability that 600 people will die.
+The two scenarios are numerically identical, but the subjects responded very differently. TK found that in Problem 1, where the scenario was framed in terms of
+gains, subjects were risk-averse: 72% chose the certain Program A over the risky Program B. However, in Problem 2, where the scenario was framed in terms of losses,
+78% of subjects preferred Program B.
+Using these same prompts, we recruited 213 subjects to see whether they would
+reproduce this preference reversal on MTurk. We offered a participation fee of $0.40.
+We randomly assigned subjects to a treatment upon arrival. Consistent with TKs
+results, we found that the majority of subjects preferred Program A in the domain
+of gains (N = 95: 69% A, 31% B), while the opposite was true in the domain of
+losses (N = 118: 41% A, 59% B). The framing significantly affected, and in fact
+reversed, the pattern of preferences stated by the subjects ( 2 test, p < 0.001). Thus,
+we successfully replicated the principle of framing on MTurk.
+3.5 Field experiment: labor supply on the extensive margin
+Economic theory predicts that, under most circumstances, increasing the price paid
+for labor will increase the supply of labor.10 In this experiment, we exogenously manipulated the payment offered to different workers and then observed their labor supply. Because the sums involved were so small, we are confident that income effects,
+at least as traditionally conceived, were inconsequential in this context. We found
+strong evidence that subjects are more likely to work when wages are high.
+When subjects arrived at the experiment, we explained that they would answer a
+series of demographic questions and then perform one paragraph-sized text transcription for a total of $0.30. They were also told that they would have the opportunity to
+perform another transcription after the original transcription was completed.
+In addition to asking their age, gender and hours per week spent online doing tasks
+for money, we asked workers to identify their home countries and their primary reasons for participation on MTurk. Because economic opportunities differ by country,
+we might expect that motivation and behavior would also differ by country (Chandler
+and Kapelner 2010). Figure 3 presents a mosaic plot showing the cross-tabulation
+results. We can see that most subjects, regardless of nationality, claimed to be motivated primarily by money. Among those claiming some other motivation, those from
+India claimed to want to learn new skills, while those from the United States claimed
+to want to have fun.
+For the actual real-effort task, we asked subjects to copy verbatim the text displayed in a scanned image into a separate text box. The text appeared as an image
+10 The exception is when the increased price changes total wealth to such an extent that changed tastes
+
+under the new scenario (i.e., income effects) might be more important than the pure substitution effect.
+
+

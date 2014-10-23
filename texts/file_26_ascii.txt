@@ -1,0 +1,52 @@
+J.J. Horton et al.
+
+We have shown that it is possible to replicate, quickly and inexpensively, findings from traditional, physical laboratory experiments in the online laboratory. We
+have also argued that experiments conducted in the context of online labor markets
+have internal validity and can have external validity. Lastly, we have proposed a number of new and desirable norms and practices that could enhance the usefulness and
+credibility of online experimentation. The future appears bright for the online laboratory, and we predict thatas the NetLab workshop quotation in our introduction
+suggeststhe social sciences are primed for major scientific advances.
+
+References
+Andreoni, J. (1990). Impure altruism and donations to public goods: a theory of warm-glow giving. The
+Economic Journal, 464477.
+Axelrod, R., & Hamilton, W. D. (1981). The evolution of cooperation. Science, 211(4489), 1390.
+Bainbridge, W. S. (2007). The scientific research potential of virtual worlds. Science, 317(5837), 472.
+Benjamin, D. J., Choi, J. J., & Strickland, A. (2010a). Social identity and preferences. American Economic
+Review (forthcoming).
+Benjamin, D. J., Choi, J. J., Strickland, A., & Fisher, G. (2010b) Religious identity and economic behavior.
+Cornell University, Mimeo.
+Bohnet, I., Greig, F., Herrmann, B., & Zeckhauser, R. (2008). Betrayal aversion: evidence from Brazil,
+China, Oman, Switzerland, Turkey, and the United States. American Economic Review, 98(1), 294
+310.
+Brandts, J., & Charness, G. (2000). Hot vs. cold: sequential responses and preference stability in experimental games. Experimental Economics, 2(3), 227238.
+Camerer, C. (2003). Behavioral game theory: experiments in strategic interaction. Princeton: Princeton
+University Press.
+Chandler, D., & Kapelner, A. (2010). Breaking monotony with meaning: motivation in crowdsourcing
+markets. University of Chicago, Mimeo.
+Chen, D., & Horton, J. (2010). The wages of pay cuts: evidence from a field experiment. Harvard University,
+Mimeo.
+Chilton, L. B., Sims, C. T., Goldman, M., Little, G., & Miller, R. C. (2009). Seaweed: a web application for
+designing economic games. In Proceedings of the ACM SIGKDD workshop on human computation
+(pp. 3435). New York: ACM Press.
+Cook, T. D., & Campbell, D. T. (1979). Quasi-experimentation. Boston: Houghton Mifflin.
+Eckel, C. C., & Wilson, R. K. (2006). Internet cautions: experimental games with Internet partners. Experimental Economics, 9(1), 5366.
+Falk, A., & Heckman, J. J. (2009). Lab experiments are a major source of knowledge in the social sciences.
+Science, 326(5952), 535.
+Fehr, E., & Schmidt, K. M. (1999). A theory of fairness, competition, and cooperation. Quarterly Journal
+of Economics, 114(3), 817868.
+Fehr, E., Schmidt, K. M., & Gchter, S. (2000). Cooperation and punishment in public goods experiments.
+American Economic Review, 90(4), 980994.
+Fischbacher, U. (2007). z- tree: Zurich toolbox for ready-made economic experiments. Experimental Economics, 10(2), 171178.
+Frei, B. (2009). Paid crowdsourcing: current state & progress toward mainstream business use. Produced
+by Smartsheet.com.
+Gneezy, U., Leonard, K. L., & List, J. A. (2009). Gender differences in competition: evidence from a
+matrilineal and a patriarchal society. Econometrica, 77(5), 16371664.
+Harrison, G. W., & List, J. A. (2004). Field experiments. Journal of Economic Literature, 42(4), 1009
+1055.
+Herrmann, B., & Thni, C. (2009). Measuring conditional cooperation: a replication study in Russia.
+Experimental Economics, 12(1), 8792.
+Horton, J. (2010). Online labor markets. In Workshop on Internet and network economics (pp. 515522).
+Horton, J. (2011). The condition of the Turking class: are online employers fair and honest? Economic
+Letters (forthcoming).
+
+

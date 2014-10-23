@@ -1,0 +1,38 @@
+J.J. Horton et al.
+
+Keywords Experimentation  Online labor markets  Prisoners dilemma  Field
+experiment  Internet
+JEL Classification J2  C93  C91  C92  C70
+
+1 Introduction
+Some of the first experiments in economics were conducted in the late 1940s to test
+predictions from the emerging field of game theory. While the research questions
+were complex, the tools were simple; paper, pencils, blackboards and marbles were
+sufficient instruments to present stimuli and capture subjects choices and actions.1
+By the early 1990s, researchers had developed tools for conducting experiments
+over local computer networks, with subjects receiving stimuli and making decisions
+via computer terminal (Fischbacher 2007). This development made it easier to carry
+out game play and collect data. However, the advantages of computer-mediation were
+not merely logistical; experimenters also gained greater control over the flow of information and thereby reduced the relevance of potentially confounding factors. For
+these reasons, computer-mediation quickly became the primary means for conducting
+laboratory experiments.
+Today, human subjects are still brought into physical laboratories despite the fact
+that many, if not most, computer-mediated experiments can easily be conducted over
+the Internet. Online participation would spare experimenters the expenses of physically aggregating subjects and compensating them for travel. This in turn would allow
+for larger and longer games with potentially more diverse subjects. Social scientists
+recognized these advantages more than a decade ago. In 1997, the National Science
+Foundation sponsored a workshop called NetLab to investigate the potential of online experimentation (Bainbridge 2007). That workshops report identified the major
+advantages of online experimentation and optimistically concluded:
+If the nascent laboratory experimental approach is encouraged and is coupled
+with new technological innovations, then the SBE [social, behavioral, and economic sciences] disciplines will be primed for major scientific advances.
+The if in that conclusion hinged on some rather mundane obstacles: funding,
+particularly for software development, and technical training. Thirteen years have
+passed; and yet, despite an explosion in the size, usage, and capabilities of the Internet, online experiments are still relatively rare, particularly in economics. During the
+same period, both field and traditional laboratory experiments have become far more
+common (Levitt and List 2009). We believe that the practical problems of (1) recruiting subjects and paying them securely and (2) assuring internal validityand
+not those of funding or training constraintshave limited the development of online
+experimentation.
+In this paper, we argue that a recent development effectively and efficiently addresses both the recruitment/payment problem and the internal validity problem. This
+1 For an historical perspective on early experimentation in economics, see Kagel et al. (1995).
+
+

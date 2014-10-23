@@ -1,0 +1,35 @@
+J.J. Horton et al.
+
+about payment, the identities of other subjects, etc., are true. This need for trust provides a good reason to embed experiments in online labor markets, because the creators of these markets have already taken a number of steps to foster trust of employers. The issue of trust is so critical that we investigate it empirically (in Sect. 5.4) via
+a survey of subjects recruited from both MTurk and a subject pool used for traditional
+laboratory experiments.
+All major online labor markets use reputation systems to create lasting, publiclyavailable reputationsreputations that are sacrificed if either buyers or workers behave unfairly (Resnick et al. 2000). The market creators proactively screen out undesired participants by taking steps, such as requiring a bank account or valid credit
+card, before either buyer or seller is allowed to join. With persons who have been
+accepted, the market creators actively manage memberships and suspend bad actors,
+creating a form of virtuous selection not found in traditional markets.
+One kind of bad actor is the non-human, automated script that fraudulently performs work. To combat this potential problem, all sites require would-be members
+to pass a CAPTCHA, or completely automated public Turing test to tell computers
+and humans apart (von Ahn et al. 2003). At least on MTurk, there is some danger
+of malicious users writing scripts that automatically accept and complete Human
+Intelligence Tasks, or HITs. However, these attempts are trivially easy to detect for
+anything more complicated than a single yes/no question. Furthermore, asking comprehension questions regarding the details of the experimental instructions, as well
+as recording the total time taken to complete the HIT, allows experiments to distinguish automated responders from actual subjects. In our experience, jobs that allow
+workers to only complete one unit of work (which is almost always the case with experiments) do not attract the attention of scammers writing scripts (because would-be
+scammers cannot amortize script-writing costs over a larger volume of work). With
+proper precautions, it is unlikely that computers would show up as subjects, or that
+any workers/subjects would believe they were playing against a computer.
+While the Turing test form of trust is important, the mundane but perhaps more
+critical requirement is that workers/subjects trust that buyers/experimenters will actually follow the rules that they propose. To encourage this form of trust, many online
+labor markets require buyers to place funds in escrow, which prevents buyers from
+opportunistically refusing to pay after taking delivery of the workers output (which
+is often an easy-to-steal informational good). In many online markets, there is some
+form of dispute arbitration, which encourages the belief that all parties are operating
+in the shadows of an institution that could hold them accountable for their actions,
+further promoting trust. Perhaps unsurprisingly, survey evidence suggests that workers in MTurk believe that their online bosses are as fair as employers in their home
+countries (Horton 2011).
+2.3 Limitations of online experiments
+Online experiments, like any experimental method, have limitations, even when conducted within online labor markets. One of the most obvious is that only some types
+of experiments can be run. Surveys and one-shot pen and pencil-style economic
+games are extremely straightforward and therefore amenable. Repeated games are
+
+

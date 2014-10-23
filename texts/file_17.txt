@@ -1,0 +1,39 @@
+The online laboratory: conducting experiments in a real labor market
+
+experiments, we stratify according to arrival time, given the strong relationship between arrival time and demographic characteristics (driven by the global nature of
+online labor pools). It is important that subjects be unaware of either the stratification
+or the randomization; they cannot know what treatment is “next,” lest it influence their
+participation or behavior. In principle, online experimenters could use more complicated blocking designs by adaptively allocating subjects on the basis of responses to
+a pre-assignment demographic survey.
+4.3 Coping with attrition
+Subjects might drop out of the alternative treatments in an experiment at rates that differ due to the nature of the treatments. For instance, an unpleasant video prime might
+prompt dropouts that a neutral video would not. Selective attrition leads to selection
+bias and thus poses a threat to valid inference in online experiments. The problem is
+especially acute online because subjects can potentially inspect a treatment before deciding whether to participate. Note that this type of balking is different from potential
+subjects viewing a description of the overall experiment and deciding not to participate. That is not a concern, as those people are exactly analogous to those who view
+an announcement for an offline, traditional experiment but don’t participate. Thus, if
+one treatment imposes a greater burden than another, MTurk subjects are more likely
+to drop out selectively than their physical laboratory counterparts.
+The online laboratory has at least two ways to deal with selective attrition. The
+first (Method 1) designs the experiment in such a way that selective attrition is highly
+unlikely and then shows that the data on “arrivals” is consistent with random attrition.
+The second (Method 2) drives down inference-relevant attrition to make it negligible.
+Method 1 requires the experimenter to establish the empirical fact that there is an
+approximate balance in collected covariates across the groups, and then to establish
+the untestable assumption that there is no unobserved sorting that could be driving
+the results (that is, different kinds of subjects are dropping out of the two groups, but
+by chance the total amount of attrition is the same).
+It is doubtful that Method 1 could be made effectively unless the experimenter has
+convincing evidence from elsewhere that there are no treatment differences that could
+lead to disparate attrition. In our experience, such evidence is unlikely to be available:
+even small differences in download speed have led to noticeable and significant attrition disparities. For most applications, Method 2 is superior, though it comes at the
+cost of a more elaborate experimental design.
+In our experience, the best way to eliminate attrition is to give subjects strong incentives to continue participating in the experiment after receiving their treatment assignments. In the physical lab, subjects will forfeit their show-up fee if they leave prematurely; this provides a strong incentive to stay. Online experiments can capitalize
+on something similar if they employ an initial phase—identical across treatments—
+that “hooks” subjects into the experiment and ensures that there is minimal attrition
+after the hook phase.12 For example, all subjects might be asked to perform a rather
+12 One way of making “minimal” precise is to employ extreme sensitivity analysis and show that even all
+
+subjects selecting out had behaved contrary to the direction of the main effect, the results would still hold.
+
+

@@ -1,0 +1,40 @@
+The online laboratory: conducting experiments in a real labor market
+
+development is the emergence of online labor markets. In these markets, workers
+from around the world perform tasks amenable to remote completion, such as data
+entry, computer programming, graphic design and clerical work (Frei 2009). These
+markets, although designed for other purposes, make it possible to recruit large numbers of subjects who are ready and able to participate in experiments.
+These recruited subjects have the attractive properties of being diverse and not
+experiment-savvy. But their key characteristic is that they will participate in the
+experiment within the context of an online labor market. This is critical, because
+the creators of online labor markets—for their own, non-experimental purposes—
+have built their platforms in a way that grants experimenters the control needed for
+valid causal inference. In particular, the creators of these markets have made it easy
+to make individual-specific payments, screen out users who do not have valid accounts with the market and prevent workers/subjects from communicating with each
+other.
+Despite the benefits they offer, online experiments raise issues not frequently encountered in either the laboratory or the field. Just as television shows are not filmed
+plays, online experiments are not simply laboratory experiments conducted online.
+This paper identifies the major differences and pays close attention to the unique
+challenges of online experimentation. Despite the caveats and potential pitfalls, the
+value of online experiments is demonstrated by our replications; we quickly, cheaply
+and easily reproduce a handful of experimental results known to have external validity. Given that online experiments work, at least for the cases we tried, the logical
+next question is why. Much of the material that follows seeks to answer that question.
+In Sect. 2 we provide information on online labor markets and discuss in broad
+terms how these markets allow researchers to overcome the classic challenges to
+causal inference. We also discuss the strengths and inherent limitations of the online
+laboratory. In Sect. 3, we successfully reproduce the qualitative characteristics of a
+series of classic experimental results, as well as discuss other examples of research
+making use of these markets. These confirmations support our basic argument, but
+challenges remain. In Sect. 4, we address the primary specific challenges of conducting experiments online, and provide tentative solutions to these challenges. In Sect. 5
+we discuss the external validity of online experimental results. In Sect. 6, we analyze
+different experimental designs that can be used online. In addition to creating exciting
+opportunities for research, online experiments also pose particular ethical challenges.
+They are the subject of Sect. 7. We conclude in Sect. 8 with our thoughts on the future
+of the online laboratory.
+
+2 Overview of experimentation in online labor markets
+At present, the most useful online labor markets, from an experimentation standpoint,
+are “all-purpose” labor markets where buyers contract with individual sellers (Horton
+2010). Some of the larger markets in this category include oDesk, Freelancer, Elance,
+
+

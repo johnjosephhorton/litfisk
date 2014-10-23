@@ -1,0 +1,46 @@
+The online laboratory: conducting experiments in a real labor market
+Fig. 1 Cooperation level in a
+one-shot prisoners dilemma is
+similar amongst physical
+laboratory subjects, MTurk
+workers who correctly answered
+five payoff comprehension
+questions, and all MTurk
+workers. Error bars indicate
+standard error of the mean
+
+To do so, we recruited 169 subjects to play a PD game. In addition to a $0.20
+show-up fee, subjects were further informed of the following payoff structure:
+
+A
+B
+
+A
+B
+$1.20, $1.20 $0.40, $1.60
+$1.60, $0.40 $0.80, $0.80
+
+(2)
+
+As in the previous PD, A represents cooperation and B represents defection. Subjects were randomly assigned to either the religious prime group (N = 87) or a neutral
+prime group (N = 82). The religious prime group read a Christian religious passage
+about the importance of charity (Mark 10:1723) before playing the PD. The neutral prime group instead read a passage of equal length describing three species of
+fish before playing the PD. Following the PD, each subject completed a demographic
+questionnaire reporting age, gender, country of residence and religious affiliation.
+The subjects also indicated whether they had ever had an experience which convinced
+them of the existence of God (here called believers). Based on previous results using implicit primes with a non-student subject pool (Shariff and Norenzayan 2007),
+we hypothesized that the religious prime would increase cooperation, but only among
+subjects who had an experience which convinced them of the existence of God.
+The results are portrayed in Fig. 2. We analyzed the data using logistic regression
+with robust standard errors, with PD decision as the dependent variable (0 = defect,
+1 = cooperate), and prime (0 = neutral, 1 = religious) and believer (0 = does not believe in God, 1 = believes in God) as independent variables, along with a prime  believer interaction term. We also included age, gender (0 = female, 1 = male), country
+of residence (0 = non-U.S., 1 = U.S.) and religion (0 = non-Christian, 1 = Christian)
+as control variables. Consistent with our prediction, we found no significant main effect of prime (p = 0.274) or believer (p = 0.545), but a significant positive interaction between the two (coeff = 1.836, p = 0.008). We also found a significant main
+effect of gender (coeff = 0.809, p = 0.028), indicating that women are more likely
+to cooperate, but no significant effect of age (p = 0.744), U.S. residency (p = 0.806)
+or Christian religion (p = 0.472).
+We demonstrated that the religious prime significantly increases cooperation in
+the PD, but only among subjects who had an experience which convinced them of
+the existence of God. These findings are of particular note given the mixed results
+
+

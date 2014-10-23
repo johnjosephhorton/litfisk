@@ -1,0 +1,84 @@
+The online laboratory: conducting experiments in a real labor market
+Table 1 Acceptance of
+paragraph transcription task by
+offer amount
+
+Amount
+
+Offers
+
+Offers
+
+Percentage
+
+(cents)
+
+accepted
+
+rejected
+
+accepted
+
+1
+
+34
+
+37
+
+0.48
+
+5
+
+57
+
+18
+
+0.76
+
+15
+
+74
+
+5
+
+0.94
+
+25
+
+71
+
+6
+
+0.92
+
+with R 2 = 0.13 and sample size N = 302, with pi = pi − 1. This offsetting transformation makes the regression intercept interpretable as the predicted mean offer
+uptake when p = 1. Of course, a linear probability model only applies over a limited range, as it ultimately predicts uptake rates greater than 1. While we could use
+a general linear model, it makes more sense to tie the problem more closely to our
+theoretical model of how workers make decisions.
+Presumably workers’ reservation wages—the minimum amount they are willing
+to accept to perform some task—have some unknown distribution with cumulative
+density function F . Workers will choose to accept offers to do more work if the
+offered wages exceed their individual reservation wages. For a task taking t seconds
+and paying pi cents, then yi = 1 · {pi /t > ωi }, where ωi is the reservation wage.
+If we assume that F is the log-normal distribution, the distribution parameters that
+maximize the likelihood of observing our data are μ = 0.113 and σ = 1.981. Given
+the average completion time on the first paragraph, the median reservation wage is
+$0.14/hour.
+3.6 Summary
+Each of these replication studies was completed on MTurk in fewer than 48 hours,
+with little effort required on our part. The cost was also far less than that of standard
+lab experiments, at an average cost of less than $1 per subject. However, even this low
+per-subject cost vastly understates the comparative efficiency of online experiments.
+We entirely avoided both the costs associated with hiring full-time assistants and the
+costs of maintaining a laboratory. We also avoided the high initial costs of setting up
+a laboratory.
+Of course, low costs would be irrelevant if the results were not informative. And
+yet, despite the low stakes and extreme anonymity of MTurk, the subjects’ behavior
+was consistent with findings from the standard laboratory. The studies demonstrate
+the power of MTurk to quickly and cheaply give insights into human behavior using
+both traditional laboratory-style experiments and field experiments.
+
+4 Internal validity
+It is reassuring that our experiments achieved results consistent with those of physical laboratories, but we make an independent case for the internal validity of online experiments. Internal validity requires that subjects are appropriately assigned
+
+

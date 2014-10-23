@@ -1,0 +1,41 @@
+J.J. Horton et al.
+
+quantitative replication of an experiment we ran in the physical laboratory, and two
+qualitative replications of experiments with well-known and widely reproduced results.
+These studies provide evidence that subjects on MTurk behave similarly to subjects in physical laboratories. These successful replications suggest that online experiments can be an appropriate tool for exploring human behavior, and merit a place in
+the experimentalist’s toolkit alongside traditional offline methods, at least for certain
+research questions.
+Our first experiment had subjects play a traditional one-shot prisoner’s dilemma
+game. We conducted the experiment both on MTurk and in the physical laboratory.
+The experimental design was the same, except that the MTurk payoffs were 10 times
+smaller than the payoffs in the physical lab. We found no significant difference in the
+level of cooperation between the two settings, providing a quantitative replication of
+physical lab behavior using lower stakes on MTurk. In both settings, a substantial
+fraction of subjects displayed other-regarding preferences.
+Our second experiment had subjects play the same prisoner’s dilemma game, after having been randomly assigned to read different “priming” passages of religious
+or non-religious text. Here we demonstrated the well-established fact that stimuli
+unrelated to monetary payoffs can nonetheless affect subjects’ decisions. In both the
+second and third experiments, subjects earned individualized payments based on their
+choices and the choices of other workers with whom they were randomly matched
+retroactively.
+Our third experiment replicated a famed result in framing shown by Tversky and
+Kahneman (1981). In accordance with numerous duplications in the laboratory, we
+found that individuals are risk-averse in the domain of gains, and risk-seeking in the
+domain of losses. Subjects were paid a fixed rate for participating.
+Beyond our laboratory experiments, we conducted a natural field experiment in
+the sense of the taxonomy proposed by Harrison and List (2004). It looked at the labor supply response to manipulations in the offered wage. This experiment placed us
+in the role of the employer. This experimenter-as-employer research design is perhaps
+the most exciting development made possible by online labor markets. We recruited
+subjects to perform a simple transcription of a paragraph-sized piece of text. After
+performing this initial task, subjects were offered the opportunity to perform an additional transcription task in exchange for a randomly determined wage. As expected,
+we found that workers’ labor supply curves slope upward.
+3.1 Existing research
+Several studies using online subject pools have appeared recently, with computer
+scientists leading the way. They all used MTurk, primarily as a way to conduct
+user-studies and collect data suitable for the training of machine learning algorithms
+(Sheng et al. 2008; Kittur et al. 2008; Sorokin and Forsyth 2008). In a paper that
+bridges computer science and economics, Mason and Watts (2009) showed that, although quality is not affected by price, output declines when wages are lowered.
+Among the several economics papers that used online labor markets, Chen and
+Horton (2010) measured the way MTurk workers respond to wage cuts. They found
+
+

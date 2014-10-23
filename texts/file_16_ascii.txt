@@ -1,0 +1,39 @@
+J.J. Horton et al.
+
+to groups, that selective attrition is ruled out, and that subjects are unable either to
+interact with or influence one another. Each of these concerns is magnified in online
+settings, but fortunately there are measures that can overcome or at least mitigate
+these challenges.
+4.1 Unique and independent observations
+Because of the inherent anonymity of the Internet, would-be experimenters are rightly
+concerned that subjects might participate multiple times in the same experiment. Fortunately, the creators of online labor markets have their own strong financial incentives to prevent users from having multiple accounts (which would be needed for
+repeated participation), and all major markets use some combination of terms-of-use
+agreements and technical approaches to prevent multiple accounts.11
+Our experience to date indicates they have been successful. Though vigilant to
+the possibility, we have detected very low numbers of people with multiple accounts
+(detected via use of cookies or IP address logging), though we have heard anecdotes
+of a few technically savvy users defeating these features.
+Our view is that multiple accounts surely exist, but that they are a negligible threat
+in most online labor markets and are likely to remain so. As in any well-designed regulatory scheme, the steps taken by those who run the sites in online labor markets
+and hence in online laboratoriesraise the price of prohibited behavior. Rendering
+undesired behavior impossible is unrealistic, but it is possible to make such behavior
+highly unlikely. Furthermore, the emergence of online labor markets where subjects
+are non-anonymous and can easily be contacted (such as oDesk, Elance and Freelancer) provide the researcher with options to reduce the risks associated with less
+controlled sites like MTurk.
+4.2 Appropriate assignment
+To be certain that a treatment is having a causal effect on some outcome, subjects
+must be assigned to treatment and control groups in a way unrelated to how they
+will react to a treatment. Randomization is intended to meet this goal, but by chance
+even randomization can lead to experimental groups that differ systematically, particularly if subjects differ on characteristics strongly correlated with the outcome. One
+approach to this problem is to include pre-treatment variables as regressors, despite
+randomization. Even better, if we have complete control over assignment, as we do in
+the online laboratory, we can preemptively avoid the pre-treatment differences problem by using a blocking design, where we stratify on factors that correlate strongly
+with outcomes. Such a design creates similar groups on the basis of potentially important factors, and then applies the treatments within each group.
+In online settings where subjects are recruited sequentially, we can in principle
+stratify subjects on any demographic characteristic we care to measure. In all of our
+11 Some sites require workers to install custom software; presumably this software can detect whether
+
+multiple copies of the software are being run on the same computer. Other sites charge membership fees
+or flat fees for fund transfers, both of which raise the costs of keeping multiple accounts.
+
+

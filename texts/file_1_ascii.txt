@@ -1,0 +1,40 @@
+Exp Econ
+DOI 10.1007/s10683-011-9273-9
+
+The online laboratory: conducting experiments
+in a real labor market
+John J. Horton  David G. Rand 
+Richard J. Zeckhauser
+
+Received: 28 June 2010 / Accepted: 11 January 2011
+ Economic Science Association 2011
+
+Abstract Online labor markets have great potential as platforms for conducting experiments. They provide immediate access to a large and diverse subject pool, and
+allow researchers to control the experimental context. Online experiments, we show,
+can be just as validboth internally and externallyas laboratory and field experiments, while often requiring far less money and time to design and conduct. To
+demonstrate their value, we use an online labor market to replicate three classic experiments. The first finds quantitative agreement between levels of cooperation in a
+prisoners dilemma played online and in the physical laboratory. The second shows
+consistent with behavior in the traditional laboratorythat online subjects respond to
+priming by altering their choices. The third demonstrates that when an identical decision is framed differently, individuals reverse their choice, thus replicating a famed
+Tversky-Kahneman result. Then we conduct a field experiment showing that workers
+have upward-sloping labor supply curves. Finally, we analyze the challenges to online experiments, proposing methods to cope with the unique threats to validity in an
+online setting, and examining the conceptual issues surrounding the external validity
+of online results. We conclude by presenting our views on the potential role that online experiments can play within the social sciences, and then recommend software
+development priorities and best practices.
+Thanks to Alex Breinin and Xiaoqi Zhu for excellent research assistance. Thanks to Samuel
+Arbesman, Dana Chandler, Anna Dreber, Rezwan Haque, Justin Keenan, Robin Yerkes Horton,
+Stephanie Hurder and Michael Manapat for helpful comments, as well as to participants in the Online
+Experimentation Workshop hosted by Harvards Berkman Center for Internet and Society. Thanks
+to Anna Dreber, Elizabeth Paci and Yochai Benkler for assistance running the physical laboratory
+replication study, and to Sarah Hirschfeld-Sussman and Mark Edington for their help with surveying
+the Harvard Decision Science Laboratory subject pool. This research has been supported
+by the NSF-IGERT program Multidisciplinary Program in Inequality and Social Policy at Harvard
+University (Grant No. 0333403), and DGR gratefully acknowledges financial support from the John
+Templeton Foundations Foundational Questions in Evolutionary Biology Prize Fellowship.
+J.J. Horton  D.G. Rand  R.J. Zeckhauser (
+Harvard University, Cambridge, USA
+e-mail: richard_zeckhauser@harvard.edu
+
+)
+
+

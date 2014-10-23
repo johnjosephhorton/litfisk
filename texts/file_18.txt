@@ -1,0 +1,40 @@
+J.J. Horton et al.
+
+tedious but well-paid transcription task first, before being randomized to the comparatively easy tasks in the treatment and control groups. The fee for the transcription
+task is forfeited if the whole experiment is not completed. The experimenter then restricts the sample to subjects that persevere through the tedious first phase, which is
+the same for all subjects. This increases confidence that these subjects will remain
+for the following phase. In short, this approach has subjects invest personally in the
+study in a manner identical across treatment groups. We then raise the price of attrition so that any differences between treatments that might drive non-random attrition
+are overcome by the incentives to comply.13
+To use this “hook” strategy ethically, it is important to let subjects know initially
+some of the details of the experiment. Subjects should always know approximately
+what they will be doing (with estimates of the time required) and the minimum payment they will receive for doing it. We have found that by providing plenty of information at the outset and by using appropriate hooking tasks, we can consistently
+drive attrition to zero.
+4.4 Stable unit treatment value assumption
+The stable unit treatment value assumption (SUTVA) requires that any individual’s
+outcome depends only upon his or her treatment assignment, and not upon the treatment assignment or outcome of any other subject (Rubin 1974). This assumption is
+potentially violated if subjects can communicate with each other about their treatments, choices or experiences.
+Physical laboratory experiments can avoid SUTVA problems by conducting the
+full experiment in one large session and prohibiting talk during the experiment. In
+practice, physical laboratory experiments often need to be conducted over several
+days to get a sufficient sample. Subjects are told not to talk to future prospective
+subjects. However, the extent of compliance with that request is not clear.
+The SUTVA problem is both more and less challenging online than in physical
+laboratories. On the downside, the accumulation of subjects over time is inevitable
+online. The counterbalancing pluses are that the subjects are widely geographically
+scattered and less likely to know each other, and that the total time from first to last
+subject in the experiments is potentially more compressed compared to traditional
+field experiments, providing less time for interaction across subjects. Furthermore,
+SUTVA problems or their absence are likely to be known: unlike in laboratory or
+field experiments, the natural mode of conversations about goings-on in the market
+take place in publicly viewable discussion forums instead of in private encounters.
+On the MTurk discussion boards, workers can and do highlight HITs that they have
+found particularly interesting or rewarding. Sometimes they discuss the content of the
+tasks. This could skew the results of an experiment. Fortunately, as an experimenter,
+it is easy to monitor these boards and periodically search for mentions of relevant
+user names or details from the experiment.
+13 Physical laboratory experiments essentially create the same pattern of costs, implying incentives not to
+
+quit. Much of the effort for participation comes from arranging a schedule and traveling to the lab.
+
+

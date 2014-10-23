@@ -1,0 +1,40 @@
+J.J. Horton et al.
+
+need to obtain informed consent from subjects prior to participation. Institutions vary
+in their requirements, but we are hopeful that boards will approve experimenter-asemployer studies where the task and payments fall within the range of what normally
+occurs on the labor market, as they often do for traditional, offline field experiments.
+Certain kinds of surveys also work well online, as we will discuss below.
+Laboratory-type games are certainly possible, but they have a number of limitations,
+as discussed above, some of which will likely be overcome by better software, while
+others will remain intractable due to the inherent nature of the Internet.
+6.1 Experimenter-as-employer
+In many offline field experiments, the researcher participates in the market as an
+employer, either by creating a new “firm” or by piggy-backing on an existing firm
+and directing its policies. Worker-subjects perform a real-effort task, such as stuffing
+envelopes, picking fruit, planting trees, etc. The manipulation is usually of such elements as the payment scheme, team composition or framing. The online environment
+makes it easy to conduct experiments involving such manipulations, so long as the
+task requires no physical presence. Fortunately, there are plenty of tasks that meet
+this requirement, such as data entry, content creation and image labeling.
+Subjects are simply recruited from the existing market to perform a task, one
+equivalent to many tasks required by real employers. They are then randomly assigned to groups. The objective might be to test the role of alternative incentive
+schemes or to determine how payment affects quality of performance. Depending
+upon institutional review board requirements, the subjects might not need to be notified that the task is an experiment.
+For the actual online task, it is obviously impossible to have workers perform
+something physical, yet certain real-effort tasks are well-suited to online completion.
+We have used data entry tasks (namely transcribing text from a document) and image
+labeling tasks. Both are common tasks on MTurk, and are easily understood by workers. The advantage of text transcription is that it has an unambiguous error metric if
+the true text is known. The advantage of labeling is that if subjects can decide how
+many labels to produce, creating the variation in the output measure needed for many
+experiments.
+The paired survey represents a variant of the experimenter-as-employer paradigm.
+It is used when one wants to know how some feature of the way a question is posed
+affects responses. While this kind of experiment is very simple, it can yield powerful conclusions. For example, some of Tversky and Kahneman’s classic work on
+framing, which we replicated, used the paired-survey method to show that people
+viewed objectively identical scenarios quite differently depending upon whether a
+two-component outcome was framed to focus on the gain or loss component. This
+simple survey design yielded an insight that has subsequently been shown to be widespread and important. MTurk is ideal for this kind of research.
+6.2 Laboratory-type games online
+Some of the most successful examples of experimental social science use simple
+interactive games, such as the trust game, the prisoner’s dilemma and market games.
+
+

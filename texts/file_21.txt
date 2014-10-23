@@ -1,0 +1,32 @@
+The online laboratory: conducting experiments in a real labor market
+Fig. 4 Degree of stated trust in
+experimenter instructions
+regarding payoffs among MTurk
+workers and subjects recruited
+from the Harvard Decision
+Sciences Laboratory
+
+5.4 Comparison of beliefs of online and offline subjects
+In economic experiments, participants must believe that payoffs will be determined
+as the experimenter describes. We wished to assess how MTurk workers compare to
+participants in traditional lab experiments in their level of experimenter trust. Thus,
+we conducted a survey receiving responses from 205 workers on MTurk and 192
+members of the Harvard Decision Sciences Laboratory subjects pool (a lab that prohibits deception).17 Participants indicated the extent to which they trusted that they
+would be paid as described in the instructions using a 7-point Likert scale, with 7
+being the maximum trust level.
+Responses are shown in Fig. 4. Although there is lower trust among MTurk workers, the mean level of trust is comparable and highest trust response was modal for
+both groups. The mean levels of trust were 5.41 for MTurk workers and 5.74 for lab
+subjects. The difference was 0.19 standard deviations, and represented only a modest
+difference in trust levels, though one that was strongly statistically significant using a
+rank-rum test (p = 0.004). These survey results indicate that trust of experimenters is
+fairly high on average. The physical lab had more “extreme” subjects—very trusting
+and very untrusting—and fewer in the middle.
+
+6 Experimental designs
+Certain kinds of research designs work better than others online. One design that
+works well is the experimenter-as-employer natural field experiment. For such experiments, the interaction is completely unremarkable from the perspective of online
+subjects, who have no idea they are involved in an experiment. Of course, for this
+kind of experiment, the researcher’s institutional review board (IRB) must waive the
+17 MTurk subjects were paid $0.10 for responding; lab pool subjects received no payment.
+
+

@@ -1,0 +1,41 @@
+J.J. Horton et al.
+
+For changes research (for example, does mercury cause autism? Do angry individuals take more risks? Do wage reductions reduce output?), the critical concern is
+the sign of the changes effect; the precise magnitude of the effect is often secondary.
+Once a phenomenon has been identified, changes research might make levels research desirable to estimate magnitudes for the specific populations of interest. These
+two kinds of empirical research often use similar methods and even the same data
+sources, but one suffers greatly when subject pools are unrepresentative, the other
+much less so.
+Laboratory investigations are particularly helpful in changes research that seeks
+to identify phenomena or to elucidate causal mechanisms. Before we even have a
+well-formed theory to test, we may want to run experiments simply to collect more
+data on phenomena. This kind of research requires an iterative process of generating
+hypotheses, testing them, examining the data and then discarding hypotheses. More
+tests then follow and so on. Because the search space is often large, numerous cycles
+are needed, which gives the online laboratory an advantage due to its low costs and
+speedy accretion of subjects.15
+5.3 Interpreting differences between results from online and physical laboratories
+We have found good agreement between our results and those obtained through traditional means. Nonetheless, there are likely to be measurable differences between
+results in online and physical laboratory experiments (Eckel and Wilson 2006). How
+should one interpret cross-domain differences, assuming they appear to be systematic
+and reproducible?
+First, systematic differences would create puzzles, which can lead to progress. In
+this sense, the online laboratory can complement conventional methodsa point emphasized by Harrison and List (2004) in the context of comparing laboratory and field
+experiments. To give an example, suppose that future experiments find that subjects
+donate less in an online dictator game than in person. This would tell us something
+interesting and add to our knowledge. It would not mean that the Internet result is
+wrong, assuming that the game is set up properly. The situation is analogous to finding cross-cultural differences in game play (Bohnet et al. 2008; Gneezy et al. 2009;
+Herrmann and Thni 2009). Such results increase our knowledge of the social world;
+they are not cautionary tales about the desirability of restricting experimental subjects
+to undergraduates at U.S. research universities.
+When the Internet was small and few people spent much time online, perhaps it
+made sense to treat cross-medium differences as an argument against utilizing evidence from online domains. Today, however, Internet-mediated social interactions
+are no longer a strange experience, one familiar to only a tiny fraction of the population.16
+15 It also increases the danger of hypothesis miningtrying out many hypotheses and reporting those
+
+that work, quite likely only by chance.
+16 A recent New York Times article, If Your Kids Are Awake, Theyre Probably Online, reported that
+
+American kids spend an average of seven to eight hours per day online.
+
+

@@ -1,0 +1,37 @@
+The online laboratory: conducting experiments in a real labor market
+
+Subject interactions are easy to arrange in physical laboratory experiments, because
+all the subjects play at once. In online labor markets, by contrast, subjects often arrive
+at the experiment over the course of several hours or days, making subject interactions
+difficult. There are several solutions to the difficulty presently available and many
+more under development.
+When subjects are asynchronous, the widely used strategy method (Selten 1967)
+players report what they would do in various hypothetical situationscan identify
+outcomes in interactive situations. This was the method we employed when performing our own trust-game and ultimatum-game experiments (not yet published). There
+is some evidence that subjects play hot games (those that do not use the strategy method) differently (Brandts and Charness 2000). Ideally, new software developments will allow for hot interactive games.
+If the reliability of the strategy method is accepted, implementation of online experiments is simple. The experimenter needs only to simulate play once all responses
+have been received. This method also has the advantage of giving more data points.
+For example, in contrast to a hot ultimatum game where we can only observe accept or reject responses from the second player, in the cold strategy-method
+game, we can see the subjects responses to several offers because they must answer
+the question Would you accept X? for several X values.
+The online laboratory allows for hot play if sufficiently large numbers of respondents can be matched up as they arrive. Experiments have shown that it is possible
+to get MTurk workers to wait around for another player.18 This kind of approach requires that the experimenter establish some rules for payment if a match cannot be
+found in a suitable amount of time. Another approach is to pay workers to come back
+to a website at a certain time to play the game. The great advantage of this method
+is that it closely replicates the current laboratory experience. This method requires
+web-based interfaces for games. Work at MIT to develop Seaweed, a web-based
+experimental platform, represents a strong step in this direction (Chilton et al. 2009).
+Building such platforms should be a top priority for the experimental social science
+community.
+
+7 Ethics and community
+The online laboratory raises new ethical issues. However, it also creates opportunities
+for setting higher standards of evidence and for fostering greater collaboration among
+social scientists, both in terms of sharing materials and in the adversarial collaboration of replication studies, which are now far easier to perform.
+7.1 Ethical implications of moving towards a bench science
+Online experiments can now propel certain subfields in the social sciences substantially toward bench science. It is now remarkably easy to design, launch and analyze
+18 See this blog post report of the experiment by Lydia Chilton: http://groups.csail.mit.edu/uid/
+
+deneme/?p=483.
+
+

@@ -1,0 +1,42 @@
+The online laboratory: conducting experiments in a real labor market
+Horton, J. & Chilton, L. (2010). The labor economics of paid crowdsourcing. In Proceedings of the 11th
+ACM conference on electronic commerce.
+Ipeirotis, P. (2010). Demographics of Mechanical Turk. New York University Working Paper.
+Kagel, J. H., Roth, A. E., & Hey, J. D. (1995). The handbook of experimental economics. Princeton:
+Princeton University Press.
+Kittur, A., Chi, E. H., & Suh, B. (2008). Crowdsourcing user studies with Mechanical Turk.
+Kocher, M. G., & Sutter, M. (2005). The decision maker matters: individual versus group behaviour in
+experimental beauty-contest games*. The Economic Journal, 115(500), 200–223.
+Levitt, S. D., & List, J. A. (2009). Field experiments in economics: the past, the present, and the future.
+European Economic Review, 53(1), 1–18.
+Little, G., Chilton, L. B., Goldman, M., & Miller, R. C. (2009). TurKit: tools for iterative tasks on Mechanical Turk. In Proceedings of the ACM SIGKDD workshop on human computation. New York:
+ACM Press.
+Lucking-Reiley, D. (2000). Auctions on the Internet: what’s being auctioned, and how? The Journal of
+Industrial Economics, 48(3), 227–252.
+Mason, W., & Watts, D. J. (2009). Financial incentives and the performance of crowds. In Proceedings of
+the ACM SIGKDD workshop on human computation (pp. 77–85). New York: ACM Press.
+Mason, W., Watts, D. J., & Suri, S. (2010). Conducting behavioral research on Amazon’s Mechanical Turk.
+SSRN eLibrary.
+Pallais, A. (2010). Inefficient hiring in entry-level labor markets.
+Paolacci, G., Chandler, J., & Ipeirotis, P. G. (2010). Running experiments on Amazon Mechanical Turk.
+Judgment and Decision Making, 5.
+Resnick, P., Kuwabara, K., Zeckhauser, R., & Friedman, E. (2000). Reputation systems. Communications
+of the ACM, 43(12), 45–48.
+Resnick, P., Zeckhauser, R., Swanson, J., & Lockwood, K. (2006). The value of reputation on eBay:
+a controlled experiment. Experimental Economics, 9(2), 79–101.
+Rubin, D. B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies.
+Journal of Educational Psychology, 66(5), 688–701.
+Selten, R. (1967). Die Strategiemethode zur Erforschung des eingeschrankt rationalen Verhaltens im Rahmen eines Oligopolexperiments. Beitrage zur experimentellen Wirtschaftsforschung, 1, 136–168.
+Shariff, A. F., & Norenzayan, A. (2007). God is watching you. Psychological Science, 18(9), 803–809.
+Sheng, V. S., Provost, F., & Ipeirotis, P. G. (2008). Get another label? Improving data quality and data mining using multiple, noisy labelers. In Proceeding of the 14th ACM SIGKDD international conference
+on knowledge discovery and data mining (pp. 614–622). New York: ACM Press.
+Sorokin, A., & Forsyth, D. (2008). Utility data annotation with Amazon Mechanical Turk. University of
+Illinois at Urbana-Champaign, Mimeo, 51, 61820.
+Suri, S., & Watts, D. (2011). A study of cooperation and contagion in web-based, networked public goods
+experiments. PLoS ONE (forthcoming).
+Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science,
+211(4481), 453.
+von Ahn, L., Blum, M., Hopper, N. J., & Langford, J. (2003). CAPTCHA: using hard AI problems for
+security. In Lecture notes in computer science (pp. 294–311). Berlin: Springer.
+
+

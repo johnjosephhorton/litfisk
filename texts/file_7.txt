@@ -1,0 +1,40 @@
+The online laboratory: conducting experiments in a real labor market
+
+also possible given the proper software tools (see Suri and Watts 2011 as an example). However, designs that require the physical presence of participants are clearly
+impossible. For example, recording physiological responses like eye movement, the
+galvanic skin response or blood flow to the brain cannot be done online; neither can
+interventions which involve physically manipulating the subjects such as having them
+touch hot versus cold objects, nor manipulating the subjects’ environment such as
+changing lighting levels or playing loud music. Face to face communication is also
+challenging, although potentially surmountable to some extent given the widespread
+adoption of webcams and other video-chat technologies.
+A further limitation is the difficulty of creating common knowledge among participants. In the traditional lab, it is possible to read the instructions aloud, such that
+participants know that everyone has received the same instructions. Online, the best
+that can be done is to inform subjects that all participants receive the same instructions, but this cannot be verified by the subjects. On the other hand, it is possible to
+build engaging instructional materials and to conduct in-game tests of comprehension
+before allowing subjects to continue in an experiment, thus making it more likely that
+all subjects do in fact possess common knowledge.
+At present there is also no easy way to answer questions that subjects may have
+about the instructions, though in principle experimenters could communicate with
+subjects through email, VoIP or chat. However, this kind of interaction is more complicated and burdensome than the immediate feedback that can be given in a laboratory. This difficulty puts some limits on the complexity of experiments that can
+be easily run on MTurk. One way to deal with this issue is to include comprehension questions that verify subjects’ understanding of the experiment, with correct
+answers being a prerequisite for participation. Although many subjects might fail for
+complicated tasks, experiments can take advantage of the large number of potential
+participants on MTurk to continue recruiting until enough comprehending subjects
+have accumulated.
+One potentially serious limitation to online experimentation is uncertainty about
+the precise identity of the experimental subjects. We discuss this problem at length in
+Sect. 4, but we admit that 100% confidence that the problem is ruled out is unrealistic.
+Even if we are certain that each worker has one and only one account, it is possible
+that multiple workers share the same account. Thus it is possible that different people
+will complete different sections of a single study, or that several people will work together to complete a single set of decisions. This raises various potential challenges
+in terms of consistency of responses across sections, judging the effort invested by
+participants, and group versus individual decision-making (Kocher and Sutter 2005).
+A partial solution is provided by online labor markets that map more closely to traditional markets (like oDesk and Elance) and that provide more elaborate tools for
+verifying worker identities.
+
+3 Experiments in the online laboratory
+This section discusses research conducted in the online laboratory, both by ourselves
+and others. We conducted three laboratory experiments for this paper, one a direct
+
+
