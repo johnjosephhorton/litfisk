@@ -1,8 +1,8 @@
-# Notes on: "The Online Laboratory" by Horton, Zeckhauser and Rand
+# Notes on: 
 ### Page 1
 ![](./images/file_1_cropped.png)
 
-### Text
+### Text from page 1
     Exp Econ DOI 10.1007/s10683-011-9273-9  The online laboratory: conducting experi
     ments in a real labor market John J. Horton  David G. Rand  Richard J. Zeckhause
     r  Received: 28 June 2010 / Accepted: 11 January 2011  Economic Science Associat
@@ -43,7 +43,7 @@
 ### Page 2
 ![](./images/file_2_cropped.png)
 
-### Text
+### Text from page 2
     J.J. Horton et al.  Keywords Experimentation  Online labor markets  Prisoners di
     lemma  Field experiment  Internet JEL Classification J2  C93  C91  C92  C70  1 I
     ntroduction Some of the first experiments in economics were conducted in the lat
@@ -87,7 +87,7 @@
 ### Page 3
 ![](./images/file_3_cropped.png)
 
-### Text
+### Text from page 3
     The online laboratory: conducting experiments in a real labor market  developmen
     t is the emergence of online labor markets. In these markets, workers from aroun
     d the world perform tasks amenable to remote completion, such as data entry, com
@@ -134,7 +134,7 @@
 ### Page 4
 ![](./images/file_4_cropped.png)
 
-### Text
+### Text from page 4
     J.J. Horton et al.  Guru and Amazons Mechanical Turk (MTurk).2 Each of these sit
     es is potentially amenable to experimentation, but MTurk currently offers the be
     st venue due to its robust application programming interface (API) and its simpl
@@ -181,7 +181,7 @@
 ### Page 5
 ![](./images/file_5_cropped.png)
 
-### Text
+### Text from page 5
     The online laboratory: conducting experiments in a real labor market  task or ga
     me using an economic frame of mind. Even in non-economic scenarios, lack of subj
     ect awareness is useful, as their uninformed state rules out experimenter effect
@@ -230,7 +230,7 @@
 ### Page 6
 ![](./images/file_6_cropped.png)
 
-### Text
+### Text from page 6
     J.J. Horton et al.  about payment, the identities of other subjects, etc., are t
     rue. This need for trust provides a good reason to embed experiments in online l
     abor markets, because the creators of these markets have already taken a number 
@@ -280,7 +280,7 @@
 ### Page 7
 ![](./images/file_7_cropped.png)
 
-### Text
+### Text from page 7
     The online laboratory: conducting experiments in a real labor market  also possi
     ble given the proper software tools (see Suri and Watts 2011 as an example). How
     ever, designs that require the physical presence of participants are clearly imp
@@ -330,7 +330,7 @@
 ### Page 8
 ![](./images/file_8_cropped.png)
 
-### Text
+### Text from page 8
     J.J. Horton et al.  quantitative replication of an experiment we ran in the phys
     ical laboratory, and two qualitative replications of experiments with well-known
      and widely reproduced results. These studies provide evidence that subjects on 
@@ -378,7 +378,7 @@
 ### Page 9
 ![](./images/file_9_cropped.png)
 
-### Text
+### Text from page 9
     The online laboratory: conducting experiments in a real labor market  that unexp
     lained wage cuts decrease output, but that when the cuts were justified to worke
     rs, the former levels of output were maintained.4 In a separate paper using MTur
@@ -429,7 +429,7 @@
 ### Page 10
 ![](./images/file_10_cropped.png)
 
-### Text
+### Text from page 10
     J.J. Horton et al.  payoffs were an order of magnitude smaller on MTurk compared
      to the offline lab. MTurk participants received a $0.50 show-up fee, while offl
     ine subjects received a $5 show-up fee. Each subject was informed that he or she
@@ -471,7 +471,7 @@
 ### Page 11
 ![](./images/file_11_cropped.png)
 
-### Text
+### Text from page 11
     The online laboratory: conducting experiments in a real labor market Fig. 1 Coop
     eration level in a one-shot prisoners dilemma is similar amongst physical labora
     tory subjects, MTurk workers who correctly answered five payoff comprehension qu
@@ -512,7 +512,7 @@
 ### Page 12
 ![](./images/file_12_cropped.png)
 
-### Text
+### Text from page 12
     J.J. Horton et al. Fig. 2 Reading a religious passage significantly increases pr
     isoners dilemma cooperation among those who have had an experience that convince
     d them of the existence of God, but not among those who have not had such an exp
@@ -553,7 +553,7 @@
 ### Page 13
 ![](./images/file_13_cropped.png)
 
-### Text
+### Text from page 13
     The online laboratory: conducting experiments in a real labor market  Which of t
     he two programs would you favor? The other half were given Problem 2 in which th
     e setup (the first three sentences) was identical but the programs were framed d
@@ -601,7 +601,7 @@
 ### Page 14
 ![](./images/file_14_cropped.png)
 
-### Text
+### Text from page 14
     J.J. Horton et al.  Fig. 3 Self-reported motivation for working on Amazon Mechan
     ical Turk (row) cross-tabulated with self-reported country (column) for 302 work
     ers/subjects  in order to prevent subjects from simply copying and pasting the t
@@ -626,7 +626,7 @@
 ### Page 15
 ![](./images/file_15_cropped.png)
 
-### Text
+### Text from page 15
     The online laboratory: conducting experiments in a real labor market Table 1 Acc
     eptance of paragraph transcription task by offer amount  Amount  Offers  Offers 
      Percentage  (cents)  accepted  rejected  accepted  1  34  37  0.48  5  57  18  
@@ -665,7 +665,7 @@
 ### Page 16
 ![](./images/file_16_cropped.png)
 
-### Text
+### Text from page 16
     J.J. Horton et al.  to groups, that selective attrition is ruled out, and that s
     ubjects are unable either to interact with or influence one another. Each of the
     se concerns is magnified in online settings, but fortunately there are measures 
@@ -712,7 +712,7 @@
 ### Page 17
 ![](./images/file_17_cropped.png)
 
-### Text
+### Text from page 17
     The online laboratory: conducting experiments in a real labor market  experiment
     s, we stratify according to arrival time, given the strong relationship between 
     arrival time and demographic characteristics (driven by the global nature of onl
@@ -764,7 +764,7 @@
 ### Page 18
 ![](./images/file_18_cropped.png)
 
-### Text
+### Text from page 18
     J.J. Horton et al.  tedious but well-paid transcription task first, before being
      randomized to the comparatively easy tasks in the treatment and control groups.
      The fee for the transcription task is forfeited if the whole experiment is not 
@@ -812,7 +812,7 @@
 ### Page 19
 ![](./images/file_19_cropped.png)
 
-### Text
+### Text from page 19
     The online laboratory: conducting experiments in a real labor market  We have be
     en running experiments for well over a year, and occasionally search the chat ro
     oms for mention of our user name. On one occasion, subjects did discuss our task
@@ -856,7 +856,7 @@
 ### Page 20
 ![](./images/file_20_cropped.png)
 
-### Text
+### Text from page 20
     J.J. Horton et al.  For changes research (for example, does mercury cause autism
     ? Do angry individuals take more risks? Do wage reductions reduce output?), the 
     critical concern is the sign of the changes effect; the precise magnitude of the
@@ -902,7 +902,7 @@
 ### Page 21
 ![](./images/file_21_cropped.png)
 
-### Text
+### Text from page 21
     The online laboratory: conducting experiments in a real labor market Fig. 4 Degr
     ee of stated trust in experimenter instructions regarding payoffs among MTurk wo
     rkers and subjects recruited from the Harvard Decision Sciences Laboratory  5.4 
@@ -934,7 +934,7 @@
 ### Page 22
 ![](./images/file_22_cropped.png)
 
-### Text
+### Text from page 22
     J.J. Horton et al.  need to obtain informed consent from subjects prior to parti
     cipation. Institutions vary in their requirements, but we are hopeful that board
     s will approve experimenter-asemployer studies where the task and payments fall 
@@ -982,7 +982,7 @@
 ### Page 23
 ![](./images/file_23_cropped.png)
 
-### Text
+### Text from page 23
     The online laboratory: conducting experiments in a real labor market  Subject in
     teractions are easy to arrange in physical laboratory experiments, because all t
     he subjects play at once. In online labor markets, by contrast, subjects often a
@@ -1027,7 +1027,7 @@
 ### Page 24
 ![](./images/file_24_cropped.png)
 
-### Text
+### Text from page 24
     J.J. Horton et al.  the results of an experiment. Conducting multiple experiment
     s per week for relatively small amounts of money is now feasible. While this is 
     an exciting and welcome development, in such an environment, a researcher could 
@@ -1078,7 +1078,7 @@
 ### Page 25
 ![](./images/file_25_cropped.png)
 
-### Text
+### Text from page 25
     The online laboratory: conducting experiments in a real labor market  fraud. The
      arguments for maintaining this no-deception policy in online experiments are ev
     en stronger. Workers in online labor markets represent a common resource shared 
@@ -1123,7 +1123,7 @@
 ### Page 26
 ![](./images/file_26_cropped.png)
 
-### Text
+### Text from page 26
     J.J. Horton et al.  We have shown that it is possible to replicate, quickly and 
     inexpensively, findings from traditional, physical laboratory experiments in the
      online laboratory. We have also argued that experiments conducted in the contex
@@ -1176,7 +1176,7 @@
 ### Page 27
 ![](./images/file_27_cropped.png)
 
-### Text
+### Text from page 27
     The online laboratory: conducting experiments in a real labor market Horton, J. 
     & Chilton, L. (2010). The labor economics of paid crowdsourcing. In Proceedings 
     of the 11th ACM conference on electronic commerce. Ipeirotis, P. (2010). Demogra

@@ -31,7 +31,7 @@ for p in [input.getPage(i) for i in range(0,input.getNumPages())]:
     os.system(cmd)
     print("![](./images/file_" + str(j) + "_cropped.png)", file = g)
     print("", file = g)
-    print("### Text", file = g)
+    print("### Text from page " + str(j), file = g)
     t = open("./texts/file_" + str(j) + "_ascii.txt", "r")
     txt = t.read() 
     txt = txt.replace('\n', ' ').replace('\r', '').replace('', '')
