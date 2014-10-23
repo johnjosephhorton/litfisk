@@ -19,7 +19,10 @@ And because each text file is named after the page it came from, finding the exa
 ## Why do you make this? 
 
 It scratches and itch---taking notes on PDFs is terrible and sharing
-literature notes with co-authors is a pain. 
+literature notes with co-authors is a pain. I would *love* if someone
+worked this and turned it into a more reasonable python pacakge. I
+know there are lots of poor practices in here (e.g., my use of
+`os.system` calls). 
 
 ## How does it work? 
 
@@ -52,6 +55,9 @@ so on.
     file_25_ascii.txt:as valid as other kinds of experiments, while greatly reducing cost, time and inconvenience. Our replications of well-known experiments relied on MTurk, as MTurk
     file_6_ascii.txt:scammers cannot amortize script-writing costs over a larger volume of work). With
     file_9_ascii.txt:kinds of experiments that would be very difficult and costly to conduct in offline
+
+The names of the files correspond to the page number, which makes
+finding the exact usage easy. 
 
 ## What does it depend on? 
 1. `imagemagick` 
