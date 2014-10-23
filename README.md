@@ -32,6 +32,27 @@ literature notes with co-authors is a pain.
 which you can use pandoc to turn into html, a word document, a pdf and
 so on. 
 
+## Example usage: grep over the text from an article 
+
+`grep 'cost' *_ascii.txt` 
+
+    file_15_ascii.txt:with little effort required on our part. The cost was also far less than that of standard
+    file_15_ascii.txt:lab experiments, at an average cost of less than $1 per subject. However, even this low
+    file_15_ascii.txt:per-subject cost vastly understates the comparative efficiency of online experiments.
+    file_15_ascii.txt:We entirely avoided both the costs associated with hiring full-time assistants and the
+    file_15_ascii.txt:costs of maintaining a laboratory. We also avoided the high initial costs of setting up
+    file_15_ascii.txt:Of course, low costs would be irrelevant if the results were not informative. And
+    file_16_ascii.txt:or flat fees for fund transfers, both of which raise the costs of keeping multiple accounts.
+    file_17_ascii.txt:cost of a more elaborate experimental design.
+    file_18_ascii.txt:13 Physical laboratory experiments essentially create the same pattern of costs, implying incentives not to
+    file_20_ascii.txt:are needed, which gives the online laboratory an advantage due to its low costs and
+    file_24_ascii.txt:norms could raise the cost of bad behavior, with the effect of both fostering honesty
+    file_24_ascii.txt:is that it would reduce costly duplication of programming effort and design. As a
+    file_24_ascii.txt:set.20 The Internet makes such sharing a low-cost chore, since the data are invariably
+    file_25_ascii.txt:as valid as other kinds of experiments, while greatly reducing cost, time and inconvenience. Our replications of well-known experiments relied on MTurk, as MTurk
+    file_6_ascii.txt:scammers cannot amortize script-writing costs over a larger volume of work). With
+    file_9_ascii.txt:kinds of experiments that would be very difficult and costly to conduct in offline
+
 ## What does it depend on? 
 1. `imagemagick` 
 1. `pypdf` library for python
