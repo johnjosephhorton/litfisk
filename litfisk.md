@@ -40,6 +40,9 @@
     : richard_zeckhauser@harvard.edu  )  
 
 ### Notes on page 1
+
+Line 20 needs some work. 
+
 ### Page 2
 ![](./images/file_2_cropped.png)
 
