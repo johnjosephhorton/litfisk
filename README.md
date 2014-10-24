@@ -1,9 +1,7 @@
-# Introduction 
-
-## What is this thing? 
-
-It's a very hacky python script that takes a PDF (usually an academic article) and 
-creates a plain text document (specifically, markdown) with sections for each page of the PDF. 
+litfisk
+=======
+It's a python script that takes a PDF (usually an academic article)
+and creates a plain text document (specifically, markdown) with sections for each page of the PDF. 
 Each section has a hi-res image of that page, the extracted text from that page (to facilitate searching) 
 and space for entering notes about that page. 
 The idea is to make it easy to take in-site plain text notes interwoven
@@ -16,26 +14,48 @@ And because each text file is named after the page it came from, finding the exa
 
 [Example here](litfisk.md) 
 
-## Why do you make this? 
+This is a Python program for creating the directory structure and some of the files needed for a new project. 
+[Here](https://dl.dropboxusercontent.com/u/420874/permanent/testproject.pdf) is an example of the PDF created by `create_project.py`. 
 
-It scratches and itch---taking notes on PDFs is terrible and sharing
-literature notes with co-authors is a pain. I would *love* if someone
-worked this and turned it into a more reasonable python pacakge. I
-know there are lots of poor practices in here (e.g., my use of
-`os.system` calls). 
+What is does
+-----------
+1. Creates a high-res image from every page in the passed pdf and
+crops it to remove whitespace 
+1. Extracts the text from that page 
+1. Creates a markdown document with the same name as your passed pdf,
+but the markdown extension, `.md` with the images, text and space for
+notes interwoven in the document.  
 
-## How does it work? 
+To install
+----------
 
-1. Take a passed PDF file like so on the command line (`split.py <test.pdf`)
-1. Splits out each page 
-1. Converts that page to an image file 
-1. Tries to extract that text 
-1. Stores the images and text files in `./images` and `./texts/` folders
-1. Weaves it all back together in a markdown document `litfisk.md`
-which you can use pandoc to turn into html, a word document, a pdf and
-so on. 
+You need to have the following command line tools accessible: 
+1. `imagemagick` 
+1. `imagemagick` 
+1. `pdftotext` 
+1. `iconv` 
 
-## Example usage: grep over the text from an article 
+To set it up, download the package 
+	
+	git clone git@github.com:johnjosephhorton/litfisk.git
+	cd litfisk
+	sudo python setup.py install 
+
+Once you save your changes, you can simply run: 
+
+	litfisk test.pdf  
+
+The script will create a new directory `test` with the subdirectories
+`images` and `texts`. 
+
+
+License
+-------
+
+See the `licence` file. 
+
+Example usage: grep over the text from an article 
+-------------------------------------------------
 
 `grep 'cost' *_ascii.txt` 
 
@@ -59,12 +79,7 @@ so on.
 The names of the files correspond to the page number, which makes
 finding the exact usage easy. 
 
-## What does it depend on? 
-1. `imagemagick` 
-1. `pypdf` library for python
-1. `pdftotext` 
-1. `iconv` 
-
-## How has this been tested? 
+How has this been tested? 
+-------------------------
 
 1. Nowhere but my own personal linux 12.00 LTS machine. 
